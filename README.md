@@ -2,13 +2,15 @@
   <a href="#"><img height="400" width="600" src="coding.gif" alt="Kadek Dwiki"></a>
 </p>
 <hr></hr>
-<h1 align="center" style="text-decoration:none;"><samp>Hi, I'm Dwiki!</samp></h1>
-<h1 align="center"style="text-decoration:none;"><samp><img height="50" src="bebek.gif" alt="Hello"> Welcome to my GitHub profile <img height="50" src="cat.gif" alt="Hello"></samp></h1>
-<br>
-<p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KadekDwiki&hide_border=true&show_icons=true" alt="KadekDwiki github stats"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadekDwiki&layout=compact" alt="KadekDwiki github stats"></a>
-</p>
+<div  align="center">
+  <h1 ><samp>Hi, I'm Dwiki!</samp></h1>
+  <h1 ><samp><img height="50" src="bebek.gif" alt="Hello"> Welcome to my GitHub profile <img height="50" src="cat.gif" alt="Hello"></samp></h1>
+  <br>
+  <p>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KadekDwiki&hide_border=true&show_icons=true" alt="KadekDwiki github stats"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadekDwiki&layout=compact" alt="KadekDwiki github stats"></a>
+  </p>
+</div>
 <!--
 **edisonlee55/edisonlee55** 
 
