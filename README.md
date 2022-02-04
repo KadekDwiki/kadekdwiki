@@ -1,4 +1,3 @@
-![profil views](https://komarev.com/ghpvc/?username=KadekDwiki&color=brightgreen)
 <p align="center">
   <a href="#"><img height="400" width="600" src="coding.gif" alt="Kadek Dwiki"></a>
 </p>
