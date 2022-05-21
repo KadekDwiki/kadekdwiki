@@ -3,7 +3,7 @@
 </p>
 <hr></hr>
 <div  align="center">
-  <h1><samp>Hi, I'm Dwiki!</samp></h1>
+  <h1><samp>Hi 👋, I'm Dwiki!</samp></h1>
   <h1><samp><img height="50" src="bebek.gif" alt="Hello"> Welcome to my GitHub profile <img height="50" src="cat.gif" alt="Hello"></samp></h1>
   <br>
   <p>
