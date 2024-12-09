@@ -13,7 +13,7 @@
   - 🌱 I'm currently learning more about front-end development 
   - 👯 I'm looking to collaborate on exciting front-end projects that combine creativity and innovation
   - 🤔 I’m looking for help with improving my skills in responsive web design and UI/UX principles. Seeking guidance from experienced developers to enhance my ability to create intuitive and user-friendly interfaces.
-  - 💬 Ask me about whatever you want to ask
+  - 💬 Ask me about Web Design and UI/UX
   - ⚡ Fun fact: When I'm not coding, you can often find me on the volleyball court 🏐
   <br/>
   <p>
