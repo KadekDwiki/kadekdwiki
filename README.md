@@ -14,7 +14,6 @@
   - 👯 I'm looking to collaborate on exciting front-end projects that combine creativity and innovation
   - 🤔 I’m looking for help with improving my skills in responsive web design and UI/UX principles. Seeking guidance from experienced developers to enhance my ability to create intuitive and user-friendly interfaces.
   - 💬 Ask me about Web Design and UI/UX
-  - ⚡ Fun fact: When I'm not coding, you can often find me on the volleyball court 🏐
   <br/>
   <p>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KadekDwiki&hide_border=true&show_icons=true" alt="KadekDwiki github stats"></a>
