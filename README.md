@@ -2,10 +2,9 @@
   <h1><samp>Hi 👋, I'm Dwiki!</samp></h1>
 
   ```javascript
-  function helloWorld() {
-    console.log("Hello, World!");
-  }
-  helloWorld();
+  function HelloWorld() {
+  return <h1>Hello, World! 🚀</h1>;
+}
   ```
   <h2>Welcome to my GitHub profile<img height="50" src="bebek.gif" alt="Hello"></h2>
   <br>
